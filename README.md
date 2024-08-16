@@ -12,7 +12,6 @@
 - Automatically selects preferred class based on best ranked class from rankings google sheet
 - Export results
 - Sort players alphabetically or by overall ranking
+![image](https://github.com/user-attachments/assets/83608335-c28a-41bd-aafc-4169176f188b)
 
-# Screenshots
 
-![Screenshot Description](path/to/screenshot.png)
