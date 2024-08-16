@@ -33,7 +33,7 @@ Add-Type -AssemblyName System.Drawing
 #$survey = Import-Excel -Path "$env:userprofile\downloads\CTF Draft League CTFDL 2024-1 UPDATED 08152024.xlsx" -NoHeader -DataOnly
 
 # Define the filename
-$fileName = "CTF Draft League CTFDL 2024-1 UPDATED 08152024.xlsx"
+$fileName = "CTF Draft League CTFDL 2024-1 UPDATED 08162024 1020am 111 Registrations.xlsx"
 
 # Define the file path
 $filePath = Join-Path -Path "$env:userprofile\downloads" -ChildPath $fileName
